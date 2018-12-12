@@ -1,0 +1,7 @@
+
+asquid:S1854">Remove this useless assignment to local variable "rndStrings".(Ä•Äşÿÿÿÿ8ÌŞÈ ú,
+;squid:S2119"Save and re-use this "Random".(¼İÅf8ÌŞÈ ú,
+Lsquid:S2140")Use "java.util.Random.nextInt()" instead.(§ÿàÈûÿÿÿÿ8ÌŞÈ ú,
+Xsquid:UselessImportCheck".Remove this unused import 'java.util.HashSet'.(Ê‚êX8ÌŞÈ ú,
+Csquid:S2129" Remove this "String" constructor(Ä•Äşÿÿÿÿ8ÌŞÈ ú,
+Ÿsquid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(”Íû8²ÎÙ ú,
